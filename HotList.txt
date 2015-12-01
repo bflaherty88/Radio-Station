@@ -1,0 +1,102 @@
+SongTitle/Artist/Album/Runtime/Description(Genre)
+Hello/Adele/25/4:55/Soul
+Hotline Bling/Drake/Single/3:35/Hip Hop
+The Hills/The Weeknd/Single/4:03/PBR&B
+Sorry/Justin Bieber/Purpose/3:20/Pop
+What Do You Mean?/Justin Bieber/Purpose/3:27/Pop
+Sitches/Shawn Mendes/Hand Written/3:27/Pop
+Focus/Ariana Grande/Moonlight/3:31/Pop
+Wildest Dreams/Taylor Swift/1989/3:40/Ballad
+679/Fetty Wap Featuring Remy Boys/Fetty Wap/3:11/Hip Hop
+Like I'm Gonna Lose You/Meghan Trainor Featuring John Legend/Title/3:45/Soul
+Locked Away/R. City Featuring Adam Levine/538 Hitzone 75/3:47/Dancehall
+Ex's & Oh's/Elle King/Love Stuff/3:22/Alternative Rock
+Here/Alessia Cara/Four Pink Walls/3:19/PBR&B
+Can't Feel My Face/The Weeknd/Beauty Behind the Madness/3:35/Pop
+Watch Me/Silento/Single/3:01/Pop-Rap
+Jumpman/Drake & Future/What a Time to Be Alive/3:25/Hip Hop
+Same Old Love/Selena Gomez/Revival/3:49/Electropop
+On My Mind/Ellie Goulding/Delirium/3:33/Electropop
+Lean On/Major Lazer & DJ Snake Featuring M0/Peace Is The Mission/2:56/Moombahton
+Renegades/X Ambassadors/VHS/3:15/Folk Pop
+Downtown/Macklermore & Ryan Lewis Featuring Eric Nally, Melle Mel, Kool Moe Dee & Grandmaster Caz/Single/4:26/Hip Hop
+Hit The Quan/iLoveMemphis/Single/3:05/Hip Hop
+Tennessee Whiskey/Chris Stapleton/Shine On/2:50/Country
+Trap Queen/Fetty Wap/Fetty Wap/3:35/Hip Hop
+Good For You/Selena Gomez Featuring A$AP Rocky/Revival/3:41/Pop
+Drag Me Down/One Direction/Made in the A.M./3:12/Pop Rock
+Antidote/Travi$ Scott/Until Now/2:57/Electro House
+Die A Happy Man/Thomas Rhett/Tangled Up/3:47/Country
+How Deep Is Your Love/Calvis Harris & Disciples/Single/3:32/Deep House
+Where Ya At/Future Featuring Drake/DS2/3:27/Trap
+Cheerleader/OMI/Me 4 U/2:58/Reggae Fusion
+Confident/Demi Lovato/Confident/3:25/Pop Rock
+Photograph/Ed Sheeran/X/4:19/Pop
+See You Again/Wiz Khalifa Featuring Charlie Puth/Furious 7: Original Motion Picture Soundtrack/3:49/Hip Hop
+My Way/Fetty Wap Featuring Monty/Fetty Wap/3:27/Hip Hop
+White Iverson/Post Malone/Single/4:14/Hip Hop
+Uptown Funk!/Mark Ronson Featuring Bruno Mars/Uptown Special/3:58/Funk
+Shut Up And Dance/WALK THE MOON/Talking Is Hard/3:17/Indie Pop
+Again/Fetty Wap/Fetty Wap/5:13/Hip Hop
+Fight Song/Rachel Platten/Fight Song/3:22/Pop
+Thinking Out Loud/Ed Sheeran/X/3:51/Pop
+Break Up In A Small Town/Sam Hunt/Montevallo/3:51/Country Pop
+Strip It Down/Luke Bryan/Kill the Lights/4:02/Country
+Perfect/One Direction/Made in the A.M./3:50/Pop Rock
+Thriller/Michael Jackson/Thriller/5:56/Disco
+Where Are U Now/Skrillex & Diplo With Justin Bieber/Skrillex and Diplo Present Jack U/4:10/EDM
+I'm Comin' Over/Chris Young/I'm Comin' Over/3:17/Country
+Break Up With Him/Old Dominion/Meat and Candy/3:28/Country
+Smoke Break/Carrie UnderWood/Storyteller/3:19/Coutnry Rock
+Want To Want Me/Jason Derulo/Everything is 4/3:27/Pop
+I'll Show You/Justin Bieber/Purpose/3:19/Pop
+Back To Back/Drake/Single/2:50/Hip Hop
+Don't/Bryson Tiller/T R A P S O U L/4:02/R&B
+Back Up/DeJ Loaf Featuring Big Sean/...And See That's the Thing/4:01/Hip Hop
+Burning House/Cam/Untamed/3:54/Country
+No Role Modelz/J. Cole/2014 Forest Hills Drive/4:52/Hip Hop
+All Eyes On You/Meek Mill Featuring Chris Brown & Nicki Minaj/Dreams Worth More Than Money/3:45/Hip Hop
+Come Get Her/Rae Sremmurd/SremmLife/3:32/Pop Rap
+Lay It All On Me/Rudimental Featuring Ed Sheeran/We the Generation/4:02/Deep House
+Love Myself/Hailee Steinfeld/HAIZ/3:38/Dance-Pop
+Let Me See Ya Girl/Cole Swindell/Cole Swindell/3:08/Country
+Nothin' Like You/Dan + Shay/Where It All Began/3:03/Country Pop
+Gonna/Blake Shelton/Bringing Back the Sunshine/3:07/Country
+Say It/Tory Lanez/Single/3:58/Hip Hop
+Anything Goes/Florida Georgia Line/Anything Goes/3:39/Country
+Blase/Ty Dolla $ign Featuring Future & Raw Sremmurd/Free TC/4:46/Hip Hop
+Liquor/Chris Brown/Royalty/3:47/Electro-R&B
+Roses/The Chainsmokers Featuring ROZES/Single/3:49/EDM
+The Fix/Nelly Featuring Jeremih/Single/2:53/Electro-R&B
+Big Rings/Drake & Future/What A Time To Be Alive/3:37/Hip Hop
+Stressed Out/twenty one pilots/Blurryface/3:22/Alternative Hip Hop
+Cool For The Summer/Demi Lovato/Confident/3:34/Pop
+Stay A Little Longer/Brothers Osborne/Pawn Shop/5:35/Country
+Right Hand/Drake/Single/3:10/Hip Hop
+Save It For A Rainy Day/Kenny Chesney/The Big Revival/3:02/Country
+Hide Away/Daya/Daya - EP/3:13/Pop
+Comfortable/K Camp/Only Way Is Up/3:55/Hip Hop
+I Got The Boy/Jana Kramer/Thirty One/3:21/Country
+Gonna Know We Were Here/Jason Aldean/Old Boots, New Dirt/3:44/Country
+Diamonds Dancing/Drake & Future/What A Time To Be Alive/5:14/Hip Hop
+RGF Island/Fetty Wap/Fetty Wap/2:53/Hip Hop
+Top Of The World/Tim McGraw/Damn Country Music/3:54/Country
+Me, Myself & I/G-Eazy x Bebe Rexha/When It's Dark Out/4:12/Hip Hop
+Levels/Nick Jonas/Single/2:47/Electropop
+Cake By The Ocean/DNCE/SWAAY/3:38/Pop
+Exchange/Bryson Tiller/T R A P S O U L/3:14/R&B
+Hold My Hand/Jess Glynne/I Cry When I Laugh/3:47/Dance-Pop
+I Love This Life/LoCash/Single/3:28/Country
+$ave Dat Money/Lil Dicky Featuring Fetty Wap & Rich Homie Quan/Professional Rapper/4:51/Comedy Hip Hop
+Dibs/Kelsea Ballerini/The First Time/3:03/Country Pop
+Ginza/J Balvin/Single/2:49/Colombian Reggae
+New Americana/Halsey/Badlands/3:03/Electropop
+Play No Games/Big Sean Featuring Chris Brown & Ty Dolla $ign/Dark Sky Paradise/3:56/Hip Hop
+Scholarships/Drake & Future/What A Time To Be Alive/3:29/Hip Hop
+Beautiful Drug/Zac Brown Band/Jekyll + Hyde/3:11/EDM
+Already Callin' You Mine/Parmalee/Feels Like Carolina/3:04/Country
+Jugg/Fetty Wap Featuring Monty/Fetty Wap/3:20/Hip Hop
+Emperor's New Clothes/Panic! At The Disco/Death of a Bachelor/2:38/Rock
+Digital Dash/Drake & Future/What A Time To Be Alive/3:51/Hip Hop
+We Went/Randy Houser/Single/3:03/Country
+
