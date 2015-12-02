@@ -15,6 +15,22 @@ public class Driver
 		generateRadioSpots();
 		Playlist p = new Playlist();
 		p.readSongsFromFile("Hotlist.txt");
+		
+		for(OldSong oldSong : oldSongsList)
+			p.add(oldSong);
+			
+		
+		for(Commercial commercial : commercialsList)
+			p.add(commercial);
+			
+		
+		for(Report report : reportsList)
+			p.add(report);
+			
+		
+		for(Spot radioSpot : radioSpotsList)
+			p.add(radioSpot);
+		
 		new RadioGUI_2(p);
 	}
 	
