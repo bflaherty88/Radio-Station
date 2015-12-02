@@ -57,7 +57,7 @@ public class RadioGUI_2 extends JFrame
 		});
 		this.pList = p;
 
-		setTitle("All you hear is radio gaga");
+		setTitle("All You Hear is Radio Gaga");
 		setDefaultCloseOperation(JFrame.DO_NOTHING_ON_CLOSE);
 		getContentPane().setLayout(new GridLayout(0, 1, 0, 0));
 
