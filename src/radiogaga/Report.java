@@ -4,7 +4,7 @@ public class Report extends Broadcast
 {
 	enum Type
 	{
-		NEWS, TRAFFIC;
+		NEWS, TRAFFIC, WEATHER;
 	}
 
 	public Report(String name, String description, long runtime, Type type)
