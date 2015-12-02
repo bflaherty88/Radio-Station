@@ -24,5 +24,30 @@ public class Driver
 		OldSong oldSongNine = new OldSong("Like a Rolling Stone", "Rock", 6:13, "Bob Dylan", "Highway 61 Revisited", 07/20/1965);
 		OldSong oldSongTen = new OldSong("Hey Jude", "Rock", 7:11, "The Beatles", "Single", 08/26/1968);
 	}
+	
+	public static void generateCommercials()
+	{
+		
+	}
+	
+	public static void generateNews()
+	{
+		
+	}
+	
+	public static void generateWeather()
+	{
+		
+	}
+	
+	public static void generateTraffic()
+	{
+		
+	}
+	
+	public static void generateRadioSpot()
+	{
+		
+	}
 
 }
