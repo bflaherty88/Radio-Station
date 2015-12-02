@@ -7,6 +7,7 @@ public class Driver
 	{
 		generateOldSongs();
 		generateReports();
+		generateRadioSpots();
 		Playlist p = new Playlist();
 		p.readSongsFromFile("Hotlist.txt");
 		new RadioGUI_2(p);
@@ -38,11 +39,8 @@ public class Driver
 		Commercial comEight = new Commercial("Fallout 4", "Welcome Home", 30, "Bethesda Game Studios");
 		Commercial comNine = new Commercial("Kia Optima", "The Power to Surprise", 30, "Kia Motors");
 		Commercial comTen = new Commercial("Colegate Toothpaste", "Improve mouth health simply by brushing.", 30, "Colgate");
-		Commercial comEleven = new Commercial();
-		Commercial comTwelve = new Commercial();
-		Commercial comThirteen = new Commercial();
-		Commercial comeFourteen = new Commercial();
-		Commercial comFifteen = new Commercial();
+		Commercial comEleven = new Commercial("Some Non-Prescription Drug", "We have so many side effects, why bother?!", 30, "Drug Company");
+		Commercial comTwelve = new Commercial("Commercial Block", "Smorgasbord of Commercials", 300, "Various Sponsors");
 	}
 	
 	public static void generateReports()
@@ -57,9 +55,9 @@ public class Driver
 		Report trafficeReport = new Report("Traffic Report", "Update about the current local traffic.", 60, TRAFFIC);
 	}
 	
-	public static void generateRadioSpot()
+	public static void generateRadioSpots()
 	{
-		Spot radioSpot = new Spot("")
+		Spot radioSpot = new Spot("Radio Spot", "Timeslot reserved for the DJ to talk about events, shows, etc.", 120);
 	}
 
 }
