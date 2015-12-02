@@ -2,7 +2,11 @@ package radiogaga;
 
 public class Driver
 {
-
+	private ArrayList<OldSong> oldSongsList = new ArrayList<OldSong>();
+	private ArrayList<Commercial> commercialsList = new ArrayList<Commercial>();
+	private ArrayList<Report> reportsList = new ArrayList<Report>();
+	private ArrayList<Spot> radioSpotsList = new ArrayList<Spot>();
+	
 	public static void main(String[] args)
 	{
 		generateOldSongs();
@@ -26,6 +30,18 @@ public class Driver
 		OldSong oldSongEight = new OldSong("It's Not Unusual","Pop", 123, "Tom Jones", "Along Came Jones", 11/11/1964);
 		OldSong oldSongNine = new OldSong("Like a Rolling Stone", "Rock", 373, "Bob Dylan", "Highway 61 Revisited", 07/20/1965);
 		OldSong oldSongTen = new OldSong("Hey Jude", "Rock", 431, "The Beatles", "Single", 08/26/1968);
+		
+		oldSongsList.add(oldSongOne);
+		oldSongsList.add(oldSongTwo);
+		oldSongsList.add(oldSongThree);
+		oldSongsList.add(oldSongFour);
+		oldSongsList.add(oldSongFive);
+		oldSongsList.add(oldSongSix);
+		oldSongsList.add(oldSongSeven);
+		oldSongsList.add(oldSongEight);
+		oldSongsList.add(oldSongNine);
+		oldSongsList.add(oldSongTen);
+		
 	}
 	
 	public static void generateCommercials()
@@ -42,6 +58,20 @@ public class Driver
 		Commercial comTen = new Commercial("Colegate Toothpaste", "Improve mouth health simply by brushing.", 30, "Colgate");
 		Commercial comEleven = new Commercial("Some Non-Prescription Drug", "We have so many side effects, why bother?!", 30, "Drug Company");
 		Commercial comTwelve = new Commercial("Commercial Block", "Smorgasbord of Commercials", 300, "Various Sponsors");
+		
+		commercialsList.add(comOne);
+		commercialsList.add(comTwo);
+		commercialsList.add(comThree);
+		commercialsList.add(comFour);
+		commercialsList.add(comFive);
+		commercialsList.add(comSix);
+		commercialsList.add(comSeven);
+		commercialsList.add(comEight);
+		commercialsList.add(comNine);
+		commercialsList.add(comTen);
+		commercialsList.add(comEleven);
+		commercialsList.add(comTwelve);
+		
 	}
 	
 	public static void generateReports()
@@ -53,12 +83,18 @@ public class Driver
 		Report weatherReport = new Report("Weather Report", "Update about the local weather.", 30, WEATHER);
 		
 		//Traffic Report
-		Report trafficeReport = new Report("Traffic Report", "Update about the current local traffic.", 60, TRAFFIC);
+		Report trafficReport = new Report("Traffic Report", "Update about the current local traffic.", 60, TRAFFIC);
+		
+		reportsList.add(newsReport);
+		reportsList.add(weatherReport);
+		reportsList.add(trafficReport);
 	}
 	
 	public static void generateRadioSpots()
 	{
 		Spot radioSpot = new Spot("Radio Spot", "Timeslot reserved for the DJ to talk about events, shows, etc.", 120);
+		
+		radioSpotsList.add(radioSpot);
 	}
 
 }
