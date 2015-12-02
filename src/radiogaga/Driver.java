@@ -6,6 +6,7 @@ public class Driver
 	public static void main(String[] args)
 	{
 		generateOldSongs();
+		generateCommercials();
 		generateReports();
 		generateRadioSpots();
 		Playlist p = new Playlist();
