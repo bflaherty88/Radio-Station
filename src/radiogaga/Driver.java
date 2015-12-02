@@ -12,7 +12,7 @@ public class Driver
 	
 	public static void generateOldSongs()
 	{
-		oldSongOne = new OldSong();
+		oldSongOne = new OldSong("Bohemian Rhapsody", "Rock", 5:55, "Queen", "A Night at the Opera");
 		oldSongTwo = new OldSong();
 		oldSongThree = new OldSong();
 		oldSongFour = new OldSong();
